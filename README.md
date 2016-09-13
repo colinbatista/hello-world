@@ -1,2 +1,4 @@
 # hello-world
-Short description about my new project
+My name is David i'm 26 and i am studying web developpement.
+
+
